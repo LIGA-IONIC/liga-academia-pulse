@@ -1,23 +1,13 @@
-# Projeto 08 · Academia Pulse
+﻿# Academia Pulse
 
-## Contexto
-Aluno da academia monta o treino do dia e registra a sessão.
+## O que fazer
+1. Abra **`PRINTS.html`** neste repo (é o gabarito visual).
+2. Monte o app **parecido com o print** (não precisa ser idêntico).
+3. A regra do tema está **nas telas do print** — observe totais, badges e mensagens.
+4. Cada semana o professor libera issues novas. Faça só as da semana aberta.
 
-## Itens sugeridos
-| Exercício | Grupo | Séries |
-|-----------|-------|--------|
-| Supino | Peito | 3x10 |
-| Agachamento | Perna | 4x8 |
-| Remada | Costas | 3x12 |
-| Prancha | Core | 3x40s |
-| Elevação lateral | Ombro | 3x12 |
+## Stack
+Node **22.23.1** · Ionic **9** standalone · Firebase de vocês
 
-## Regra do tema (obrigatória)
-Treino só fecha com **no mínimo 3 exercícios**.
-Filtro por grupo muscular (Peito, Perna, Costas…).
-
-## Firestore
-Coleção: `treinos_pulse` (aluno, exercícios, data).
-
-## Visual sugerido
-Cor: vermelho / preto
+## Entrega
+Link do seu **fork** + demo: login → lista → regra do print → Firestore
