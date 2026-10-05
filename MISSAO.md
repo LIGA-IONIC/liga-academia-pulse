@@ -1,6 +1,6 @@
-# Missão 08 · Academia Pulse
+# Projeto 08 · Academia Pulse
 
-## Lore
+## Contexto
 Aluno da academia monta o treino do dia e registra a sessão.
 
 ## Itens sugeridos
@@ -12,12 +12,12 @@ Aluno da academia monta o treino do dia e registra a sessão.
 | Prancha | Core | 3x40s |
 | Elevação lateral | Ombro | 3x12 |
 
-## Boss (obrigatório)
+## Regra do tema (obrigatória)
 Treino só fecha com **no mínimo 3 exercícios**.
 Filtro por grupo muscular (Peito, Perna, Costas…).
 
-## Cofre (Firestore)
+## Firestore
 Coleção: `treinos_pulse` (aluno, exercícios, data).
 
-## Rank sugerido da guilda
-Cor: vermelho energia / preto
+## Visual sugerido
+Cor: vermelho / preto
